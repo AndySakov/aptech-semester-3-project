@@ -3,7 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1503623188405797" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/drawable/ic_gfglogo.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_view_category_recipes.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_view_recipe.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_view_recipes_for_category.xml" value="0.27314814814814814" />
+        <entry key="app/src/main/res/layout/card_item.xml" value="0.27314814814814814" />
+        <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/content_view_recipes_for_category.xml" value="0.27314814814814814" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.27314814814814814" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.27314814814814814" />
+        <entry key="app/src/main/res/layout/mylist.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/recipe_list.xml" value="0.1648148148148148" />
+        <entry key="app/src/main/res/layout/recipe_view.xml" value="0.20971867007672634" />
       </map>
     </option>
   </component>

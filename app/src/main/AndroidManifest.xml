@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AptechSem3Project">
         <activity
+            android:name=".ViewRecipeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewCategoryRecipesActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -20,4 +26,5 @@
         </activity>
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
